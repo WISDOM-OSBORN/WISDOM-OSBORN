@@ -42,48 +42,88 @@ _This section will be generated automatically from public repositories._
 
 ### Tools & Technologies
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org" title="Python">
+        <img src="https://skillicons.dev/icons?i=python" width="56" alt="Python" />
+      </a>
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" />
+      </a>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org" title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" />
+      </a>
+      <br /><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://react.dev" title="React">
+        <img src="https://skillicons.dev/icons?i=react" width="56" alt="React" />
+      </a>
+      <br /><sub><b>React</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nextjs.org" title="Next.js">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="56" alt="Next.js" />
+      </a>
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" title="Node.js">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="56" alt="Node.js" />
+      </a>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com" title="Tailwind CSS">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" />
+      </a>
+      <br /><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com" title="Docker">
+        <img src="https://skillicons.dev/icons?i=docker" width="56" alt="Docker" />
+      </a>
+      <br /><sub><b>Docker</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" title="PostgreSQL">
+        <img src="https://skillicons.dev/icons?i=postgres" width="56" alt="PostgreSQL" />
+      </a>
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com" title="MongoDB">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="56" alt="MongoDB" />
+      </a>
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org" title="TensorFlow">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="56" alt="TensorFlow" />
+      </a>
+      <br /><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org" title="Linux">
+        <img src="https://skillicons.dev/icons?i=linux" width="56" alt="Linux" />
+      </a>
+      <br /><sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
 
-<a href="https://www.python.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" width="58" alt="Python" />
-</a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=js" width="58" alt="JavaScript" />
-</a>
-<a href="https://www.typescriptlang.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=ts" width="58" alt="TypeScript" />
-</a>
-<a href="https://react.dev" target="_blank">
-  <img src="https://skillicons.dev/icons?i=react" width="58" alt="React" />
-</a>
-<a href="https://nextjs.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nextjs" width="58" alt="Next.js" />
-</a>
-<a href="https://nodejs.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=nodejs" width="58" alt="Node.js" />
-</a>
-<a href="https://tailwindcss.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="58" alt="Tailwind CSS" />
-</a>
-<a href="https://www.docker.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=docker" width="58" alt="Docker" />
-</a>
-<a href="https://www.postgresql.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=postgres" width="58" alt="PostgreSQL" />
-</a>
-<a href="https://www.mongodb.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mongodb" width="58" alt="MongoDB" />
-</a>
-<a href="https://www.tensorflow.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="58" alt="TensorFlow" />
-</a>
-<a href="https://www.linux.org" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linux" width="58" alt="Linux" />
-</a>
-
-</div>
-
-<p align="center"><i>Hover over the icons to see the technology names.</i></p>
+<p align="center"><i>Hover over any icon to see the technology name and click it to open the official website.</i></p>
 
 ---
 
@@ -108,12 +148,12 @@ _This section will be generated automatically from public repositories._
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=tokyonight" width="95%" alt="GitHub activity summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=github_dark" width="95%" alt="GitHub activity summary" />
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WISDOM-OSBORN&theme=tokyonight" width="47%" alt="Repositories per language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WISDOM-OSBORN&theme=tokyonight" width="47%" alt="Most commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WISDOM-OSBORN&theme=github_dark" width="47%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WISDOM-OSBORN&theme=github_dark&utcOffset=0" width="47%" alt="Most productive time" />
 
 </div>
 
