@@ -1,28 +1,38 @@
 <div align="center">
 
-# Hi, I'm Wisdom Osborn Abuyah 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:2563eb,100:7c3aed&text=Wisdom%20Osborn%20Abuyah&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Biomedical%20Engineer%20•%20AI/ML%20Engineer%20•%20Aspiring%20Full-Stack%20Developer&descAlignY=58" width="100%" alt="Profile banner" />
 
-### Biomedical Engineer • Machine Learning & AI Engineer • Aspiring Full-Stack Developer
+# Hi, I'm Wisdom 👋
+
+### Biomedical Engineer • AI/ML Engineer • Aspiring Full-Stack Developer
 
 **Learning • Building • Full-Stack Development • Smart Contracts • AI/ML**
 
-Building practical AI, healthcare and software solutions for Ghana and Africa.
+Building practical **AI, healthcare and software solutions for Ghana and Africa**.
 
-[![GitHub followers](https://img.shields.io/github/followers/WISDOM-OSBORN?style=social)](https://github.com/WISDOM-OSBORN?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=WISDOM-OSBORN&label=Profile%20views)](https://github.com/WISDOM-OSBORN)
+<p>
+  <a href="https://github.com/WISDOM-OSBORN?tab=followers">
+    <img src="https://img.shields.io/github/followers/WISDOM-OSBORN?style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" />
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=WISDOM-OSBORN">
+    <img src="https://komarev.com/ghpvc/?username=WISDOM-OSBORN&style=for-the-badge&color=7c3aed" alt="Profile views" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 🚀 About Me
 
-- Biomedical Engineering graduate building skills in **machine learning, AI engineering and software development**.
-- Interested in **healthcare AI, computer vision, data science, bioinformatics and full-stack systems**.
-- Currently documenting my learning through **hands-on tasks, personal notes and capstone projects**.
-- Focused on creating **useful technology for healthcare, education and industry**.
+- 🎓 Biomedical Engineering graduate with a strong interest in **AI, machine learning and software engineering**.
+- 🧠 Exploring **healthcare AI, computer vision, data science, bioinformatics and intelligent systems**.
+- 🛠️ Building **hands-on projects, research prototypes and learning repositories**.
+- 🌍 Passionate about using technology to solve **healthcare, education and industry challenges in Africa**.
 
-## Current Focus
+---
+
+## 🎯 Current Focus
 
 - Machine Learning & Deep Learning
 - AI Engineering & MLOps
@@ -32,15 +42,7 @@ Building practical AI, healthcare and software solutions for Ghana and Africa.
 
 ---
 
-## Technical Toolkit
-
-### Languages
-
-<!-- LANGUAGES:START -->
-_This section will be generated automatically from public repositories._
-<!-- LANGUAGES:END -->
-
-### Tools & Technologies
+## 🧰 Tech Stack
 
 <table align="center">
   <tr>
@@ -127,15 +129,22 @@ _This section will be generated automatically from public repositories._
 
 ---
 
-## Recently Updated Public Projects
+## 📊 GitHub Metrics
 
-<!-- PROJECTS:START -->
-_This section will be generated automatically from public repositories._
-<!-- PROJECTS:END -->
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=github_dark" width="95%" alt="GitHub activity summary" />
+
+<br /><br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=c084fc" width="48%" alt="GitHub streak metric" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WISDOM-OSBORN&theme=github_dark" width="48%" alt="GitHub stats" />
+
+</div>
 
 ---
 
-## Featured Learning Repositories
+## 🧪 Featured Learning Repositories
 
 - **[ML-JOURNEY](https://github.com/WISDOM-OSBORN/ML-JOURNEY)** — My journey toward becoming a machine learning and AI engineer.
 - **[Bioinformatics](https://github.com/WISDOM-OSBORN/Bioinformatics)** — Personal code, experiments and notes in bioinformatics.
@@ -144,26 +153,27 @@ _This section will be generated automatically from public repositories._
 
 ---
 
-## GitHub Activity
+## 🆕 Recently Updated Public Projects
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=github_dark" width="95%" alt="GitHub activity summary" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WISDOM-OSBORN&theme=github_dark" width="47%" alt="GitHub stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WISDOM-OSBORN&theme=github_dark&utcOffset=0" width="47%" alt="Most productive time" />
-
-</div>
+<!-- PROJECTS:START -->
+_This section will be generated automatically from public repositories._
+<!-- PROJECTS:END -->
 
 ---
 
-## Let's Connect
+## 🤝 Let's Connect
 
-- **GitHub:** [@WISDOM-OSBORN](https://github.com/WISDOM-OSBORN)
-- **Email:** [abuyahwisdom@gmail.com](mailto:abuyahwisdom@gmail.com)
-- **LinkedIn:** [wisdom-abuyah-237a13222](https://www.linkedin.com/in/wisdom-abuyah-237a13222/)
+<p align="center">
+  <a href="https://github.com/WISDOM-OSBORN">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:abuyahwisdom@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/wisdom-abuyah-237a13222/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
