@@ -42,9 +42,48 @@ _This section will be generated automatically from public repositories._
 
 ### Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,docker,linux,postgres,mongodb,tensorflow" alt="Technical skills" />
-</p>
+<div align="center">
+
+<a href="https://www.python.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" width="58" alt="Python" />
+</a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" width="58" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ts" width="58" alt="TypeScript" />
+</a>
+<a href="https://react.dev" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" width="58" alt="React" />
+</a>
+<a href="https://nextjs.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="58" alt="Next.js" />
+</a>
+<a href="https://nodejs.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="58" alt="Node.js" />
+</a>
+<a href="https://tailwindcss.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="58" alt="Tailwind CSS" />
+</a>
+<a href="https://www.docker.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" width="58" alt="Docker" />
+</a>
+<a href="https://www.postgresql.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postgres" width="58" alt="PostgreSQL" />
+</a>
+<a href="https://www.mongodb.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="58" alt="MongoDB" />
+</a>
+<a href="https://www.tensorflow.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="58" alt="TensorFlow" />
+</a>
+<a href="https://www.linux.org" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linux" width="58" alt="Linux" />
+</a>
+
+</div>
+
+<p align="center"><i>Hover over the icons to see the technology names.</i></p>
 
 ---
 
@@ -69,13 +108,12 @@ _This section will be generated automatically from public repositories._
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WISDOM-OSBORN&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="Wisdom's GitHub statistics" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true" width="48%" alt="Wisdom's GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=tokyonight" width="95%" alt="GitHub activity summary" />
 
 <br /><br />
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WISDOM-OSBORN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WISDOM-OSBORN&theme=tokyonight" width="47%" alt="Repositories per language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WISDOM-OSBORN&theme=tokyonight" width="47%" alt="Most commit language" />
 
 </div>
 
