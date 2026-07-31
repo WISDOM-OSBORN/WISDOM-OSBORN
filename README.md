@@ -1,23 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,40:2563eb,100:7c3aed&text=Wisdom%20Osborn%20Abuyah&fontColor=ffffff&fontSize=34&fontAlignY=38&desc=Biomedical%20Engineer%20•%20AI/ML%20Engineer%20•%20Aspiring%20Full-Stack%20Developer&descAlignY=58" width="100%" alt="Profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f172a,35:2563eb,70:7c3aed,100:c026d3&text=Wisdom%20Osborn%20Abuyah&fontColor=ffffff&fontSize=36&fontAlignY=34&desc=Learning%20•%20Building%20•%20Full-Stack%20Development%20•%20Smart%20Contracts%20•%20AI/ML&descAlignY=55" width="100%" alt="Profile banner" />
 
-# Hi, I'm Wisdom 👋
-
-### Biomedical Engineer • AI/ML Engineer • Aspiring Full-Stack Developer
-
-**Learning • Building • Full-Stack Development • Smart Contracts • AI/ML**
-
-Building practical **AI, healthcare and software solutions for Ghana and Africa**.
+<p><strong>Building practical AI, healthcare and software solutions for Ghana and Africa.</strong></p>
 
 <p>
   <a href="https://github.com/WISDOM-OSBORN?tab=followers">
-    <img src="https://img.shields.io/github/followers/WISDOM-OSBORN?style=for-the-badge&logo=github&color=2563eb" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/WISDOM-OSBORN?style=for-the-badge&logo=github&label=GitHub%20Followers&color=2563eb" alt="GitHub followers" />
   </a>
   <a href="https://komarev.com/ghpvc/?username=WISDOM-OSBORN">
-    <img src="https://komarev.com/ghpvc/?username=WISDOM-OSBORN&style=for-the-badge&color=7c3aed" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=WISDOM-OSBORN&style=for-the-badge&label=Profile%20Views&color=7c3aed" alt="Profile views" />
   </a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=60A5FA&center=true&vCenter=true&width=900&lines=AI+%26+Machine+Learning;Biomedical+Engineering;Healthcare+Technology;Full-Stack+Development;Cloud+%26+Smart+Contract+Solutions" alt="Typing animation" />
 
 </div>
 
@@ -42,90 +38,50 @@ Building practical **AI, healthcare and software solutions for Ghana and Africa*
 
 ---
 
-## 🧰 Tech Stack
+## ⚡ Motion Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.python.org" title="Python">
-        <img src="https://skillicons.dev/icons?i=python" width="56" alt="Python" />
-      </a>
-      <br /><sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript">
-        <img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" />
-      </a>
-      <br /><sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.typescriptlang.org" title="TypeScript">
-        <img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" />
-      </a>
-      <br /><sub><b>TypeScript</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://react.dev" title="React">
-        <img src="https://skillicons.dev/icons?i=react" width="56" alt="React" />
-      </a>
-      <br /><sub><b>React</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://nextjs.org" title="Next.js">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="56" alt="Next.js" />
-      </a>
-      <br /><sub><b>Next.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://nodejs.org" title="Node.js">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="56" alt="Node.js" />
-      </a>
-      <br /><sub><b>Node.js</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://tailwindcss.com" title="Tailwind CSS">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" />
-      </a>
-      <br /><sub><b>Tailwind</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.docker.com" title="Docker">
-        <img src="https://skillicons.dev/icons?i=docker" width="56" alt="Docker" />
-      </a>
-      <br /><sub><b>Docker</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.postgresql.org" title="PostgreSQL">
-        <img src="https://skillicons.dev/icons?i=postgres" width="56" alt="PostgreSQL" />
-      </a>
-      <br /><sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.mongodb.com" title="MongoDB">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="56" alt="MongoDB" />
-      </a>
-      <br /><sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.tensorflow.org" title="TensorFlow">
-        <img src="https://skillicons.dev/icons?i=tensorflow" width="56" alt="TensorFlow" />
-      </a>
-      <br /><sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="96">
-      <a href="https://www.linux.org" title="Linux">
-        <img src="https://skillicons.dev/icons?i=linux" width="56" alt="Linux" />
-      </a>
-      <br /><sub><b>Linux</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
 
-<p align="center"><i>Hover over any icon to see the technology name and click it to open the official website.</i></p>
+<a href="https://www.python.org" title="Python — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=python" height="64" alt="Python" />
+</a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=js" height="64" alt="JavaScript" />
+</a>
+<a href="https://www.typescriptlang.org" title="TypeScript — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=ts" height="64" alt="TypeScript" />
+</a>
+<a href="https://react.dev" title="React — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=react" height="64" alt="React" />
+</a>
+<a href="https://nextjs.org" title="Next.js — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=nextjs" height="64" alt="Next.js" />
+</a>
+<a href="https://nodejs.org" title="Node.js — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="64" alt="Node.js" />
+</a>
+<a href="https://tailwindcss.com" title="Tailwind CSS — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=tailwind" height="64" alt="Tailwind CSS" />
+</a>
+<a href="https://www.docker.com" title="Docker — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=docker" height="64" alt="Docker" />
+</a>
+<a href="https://www.postgresql.org" title="PostgreSQL — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=postgres" height="64" alt="PostgreSQL" />
+</a>
+<a href="https://www.mongodb.com" title="MongoDB — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=mongodb" height="64" alt="MongoDB" />
+</a>
+<a href="https://www.tensorflow.org" title="TensorFlow — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="64" alt="TensorFlow" />
+</a>
+<a href="https://www.linux.org" title="Linux — Click to visit the official website">
+  <img src="https://skillicons.dev/icons?i=linux" height="64" alt="Linux" />
+</a>
+
+</div>
+
+<p align="center"><strong>✨ Hover over any icon to see the technology name, click it to open the official website, and enjoy the animated typing effect above for a more dynamic profile.</strong></p>
 
 ---
 
