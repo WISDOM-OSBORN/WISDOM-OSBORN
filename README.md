@@ -2,7 +2,7 @@
 
 # Hi, I'm Wisdom Osborn Abuyah 👋
 
-### Biomedical Engineer • Machine Learning & AI Engineer • aspiring Full-Stack Developer
+### Biomedical Engineer • Machine Learning & AI Engineer • Aspiring Full-Stack Developer
 
 **Learning • Building • Full-Stack Development • Smart Contracts • AI/ML**
 
@@ -42,9 +42,88 @@ _This section will be generated automatically from public repositories._
 
 ### Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,html,css,tailwind,git,github,docker,linux,postgres,mongodb,tensorflow" alt="Technical skills" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.python.org" title="Python">
+        <img src="https://skillicons.dev/icons?i=python" width="56" alt="Python" />
+      </a>
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript">
+        <img src="https://skillicons.dev/icons?i=js" width="56" alt="JavaScript" />
+      </a>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org" title="TypeScript">
+        <img src="https://skillicons.dev/icons?i=ts" width="56" alt="TypeScript" />
+      </a>
+      <br /><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://react.dev" title="React">
+        <img src="https://skillicons.dev/icons?i=react" width="56" alt="React" />
+      </a>
+      <br /><sub><b>React</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://nextjs.org" title="Next.js">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="56" alt="Next.js" />
+      </a>
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org" title="Node.js">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="56" alt="Node.js" />
+      </a>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://tailwindcss.com" title="Tailwind CSS">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="56" alt="Tailwind CSS" />
+      </a>
+      <br /><sub><b>Tailwind</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com" title="Docker">
+        <img src="https://skillicons.dev/icons?i=docker" width="56" alt="Docker" />
+      </a>
+      <br /><sub><b>Docker</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org" title="PostgreSQL">
+        <img src="https://skillicons.dev/icons?i=postgres" width="56" alt="PostgreSQL" />
+      </a>
+      <br /><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com" title="MongoDB">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="56" alt="MongoDB" />
+      </a>
+      <br /><sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.tensorflow.org" title="TensorFlow">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="56" alt="TensorFlow" />
+      </a>
+      <br /><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linux.org" title="Linux">
+        <img src="https://skillicons.dev/icons?i=linux" width="56" alt="Linux" />
+      </a>
+      <br /><sub><b>Linux</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>Hover over any icon to see the technology name and click it to open the official website.</i></p>
 
 ---
 
@@ -69,12 +148,12 @@ _This section will be generated automatically from public repositories._
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WISDOM-OSBORN&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="Wisdom's GitHub statistics" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true" width="48%" alt="Wisdom's GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=github_dark" width="95%" alt="GitHub activity summary" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WISDOM-OSBORN&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WISDOM-OSBORN&theme=github_dark" width="47%" alt="GitHub stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=WISDOM-OSBORN&theme=github_dark&utcOffset=0" width="47%" alt="Most productive time" />
 
 </div>
 
