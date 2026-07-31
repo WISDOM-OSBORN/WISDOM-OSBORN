@@ -2,7 +2,7 @@
 
 # Hi, I'm Wisdom Osborn Abuyah 👋
 
-### Biomedical Engineer • Machine Learning & AI Engineer • Full-Stack Developer
+### Biomedical Engineer • Machine Learning & AI Engineer • aspiring Full-Stack Developer
 
 **Learning • Building • Full-Stack Development • Smart Contracts • AI/ML**
 
