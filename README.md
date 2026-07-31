@@ -69,12 +69,13 @@ _This section will be generated automatically from public repositories._
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WISDOM-OSBORN&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="Wisdom's GitHub statistics" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true" width="48%" alt="Wisdom's GitHub streak" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=WISDOM-OSBORN&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="Wisdom's GitHub statistics" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true" width="48%" alt="Wisdom's GitHub streak" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WISDOM-OSBORN&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Top languages" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=WISDOM-OSBORN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="40%" alt="Top languages" />
 
 </div>
 
