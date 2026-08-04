@@ -89,12 +89,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISDOM-OSBORN&theme=github_dark" width="95%" alt="GitHub activity summary" />
+<img src="https://github-readme-stats.vercel.app/api?username=WISDOM-OSBORN&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=c084fc" width="48%" alt="GitHub streak metric" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=c084fc" width="48%" alt="GitHub streak metric" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WISDOM-OSBORN&theme=github_dark" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WISDOM-OSBORN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=WISDOM-OSBORN&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="GitHub activity graph" />
 
 </div>
 
