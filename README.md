@@ -94,7 +94,7 @@
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WISDOM-OSBORN&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" alt="Top languages" />
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=WISDOM-OSBORN&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="GitHub activity graph" />
 
 </div>
