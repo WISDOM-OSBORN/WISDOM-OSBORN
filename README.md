@@ -89,7 +89,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=WISDOM-OSBORN&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
+
 <img src="https://streak-stats.demolab.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=c084fc" width="48%" alt="GitHub streak metric" />
 
 <br /><br />
