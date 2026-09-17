@@ -89,13 +89,7 @@
 
 <div align="center">
 
-
 <img src="https://streak-stats.demolab.com?user=WISDOM-OSBORN&theme=tokyonight&hide_border=true&ring=7c3aed&fire=f59e0b&currStreakLabel=c084fc" width="48%" alt="GitHub streak metric" />
-
-<br /><br />
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=WISDOM-OSBORN&theme=tokyo-night&hide_border=true&area=true" width="48%" alt="GitHub activity graph" />
 
 </div>
 
@@ -107,6 +101,14 @@
 - **[Bioinformatics](https://github.com/WISDOM-OSBORN/Bioinformatics)** — Personal code, experiments and notes in bioinformatics.
 - **[DATA-ANALYTICS-COURSE-ONLINE-](https://github.com/WISDOM-OSBORN/DATA-ANALYTICS-COURSE-ONLINE-)** — Data analysis coursework and practical notebooks.
 - **[MY-FULLSTACK-JOURNEY](https://github.com/WISDOM-OSBORN/MY-FULLSTACK-JOURNEY)** — Notes and projects from my full-stack development journey.
+
+---
+
+## 🗣️ Most Used Languages
+
+<!-- LANGUAGES:START -->
+_This section will be generated automatically from public repositories._
+<!-- LANGUAGES:END -->
 
 ---
 
