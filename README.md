@@ -107,7 +107,19 @@
 ## 🗣️ Most Used Languages
 
 <!-- LANGUAGES:START -->
-_This section will be generated automatically from public repositories._
+
+| Language | Usage |
+|---|---:|
+| Jupyter Notebook | 98.7% |
+| Python | 0.8% |
+| TypeScript | 0.4% |
+| HTML | 0.0% |
+| Makefile | 0.0% |
+| Dockerfile | 0.0% |
+| CSS | 0.0% |
+
+_Calculated from GitHub language statistics for public repositories._
+
 <!-- LANGUAGES:END -->
 
 ---
@@ -115,7 +127,50 @@ _This section will be generated automatically from public repositories._
 ## 🆕 Recently Updated Public Projects
 
 <!-- PROJECTS:START -->
-_This section will be generated automatically from public repositories._
+
+### [datacern](https://github.com/WISDOM-OSBORN/datacern)
+
+A Python tool that takes a CSV or PDF upload plus a plain-English question, then generates a professional analytical report with auto-generated charts
+
+**Languages:** Python, Makefile, Dockerfile  
+**Updated:** 17 Sep 2026
+
+### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
+
+this is the repo for wifra labs 
+
+**Languages:** TypeScript, CSS, HTML  
+**Updated:** 27 Jul 2026
+
+### [codes](https://github.com/WISDOM-OSBORN/codes)
+
+Project documentation coming soon.
+
+**Languages:** Not detected  
+**Updated:** 26 Jul 2026
+
+### [ML-JOURNEY](https://github.com/WISDOM-OSBORN/ML-JOURNEY)
+
+My journey to becoming a Machine Learning and AI Engineer. This repository documents my learning progress through hands-on tasks, experiments, personal notes, tutorials, mini-projects, and capstone projects as I build practical skills in data science, machine learning, deep learning, and AI engineering.
+
+**Languages:** Jupyter Notebook  
+**Updated:** 25 Jul 2026
+
+### [WISDOM-OSBORNs](https://github.com/WISDOM-OSBORN/WISDOM-OSBORNs)
+
+Project documentation coming soon.
+
+**Languages:** Jupyter Notebook, Python  
+**Updated:** 10 Jul 2026
+
+### [DATA-ANALYTICS-COURSE-ONLINE-](https://github.com/WISDOM-OSBORN/DATA-ANALYTICS-COURSE-ONLINE-)
+
+🔍 Data Analytics with Python — Hands-on Course Materials Jupyter notebooks, projects, and datasets based on the freeCodeCamp Data Analysis with Python certification. Learn NumPy, Pandas, data cleaning, and visualization through real-world examples
+
+**Languages:** Jupyter Notebook  
+**Updated:** 10 Jul 2026
+
+
 <!-- PROJECTS:END -->
 
 ---
@@ -141,7 +196,9 @@ _This section will be generated automatically from public repositories._
 _This profile automatically analyses only my **public, original repositories**. Private repositories are excluded._
 
 <!-- LAST-UPDATED:START -->
-_Last automated update: pending first workflow run._
+
+_Last automated update: 17 September 2026 at 11:10 UTC_
+
 <!-- LAST-UPDATED:END -->
 
 </div>
