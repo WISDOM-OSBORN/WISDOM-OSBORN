@@ -110,11 +110,11 @@
 
 | Language | Usage |
 |---|---:|
-| Jupyter Notebook | 98.7% |
-| Python | 0.8% |
+| Jupyter Notebook | 98.5% |
+| Python | 1.1% |
 | TypeScript | 0.4% |
-| HTML | 0.0% |
 | Makefile | 0.0% |
+| HTML | 0.0% |
 | Dockerfile | 0.0% |
 | CSS | 0.0% |
 
@@ -133,7 +133,7 @@ _Calculated from GitHub language statistics for public repositories._
 A Python tool that takes a CSV or PDF upload plus a plain-English question, then generates a professional analytical report with auto-generated charts
 
 **Languages:** Python, Makefile, Dockerfile  
-**Updated:** 17 Sep 2026
+**Updated:** 18 Sep 2026
 
 ### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
 
@@ -197,7 +197,7 @@ _This profile automatically analyses only my **public, original repositories**. 
 
 <!-- LAST-UPDATED:START -->
 
-_Last automated update: 17 September 2026 at 11:10 UTC_
+_Last automated update: 18 September 2026 at 10:44 UTC_
 
 <!-- LAST-UPDATED:END -->
 
