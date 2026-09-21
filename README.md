@@ -110,13 +110,13 @@
 
 | Language | Usage |
 |---|---:|
-| Jupyter Notebook | 98.5% |
-| Python | 1.1% |
-| TypeScript | 0.4% |
-| Makefile | 0.0% |
+| Jupyter Notebook | 98.0% |
+| Python | 1.2% |
+| TypeScript | 0.7% |
 | HTML | 0.0% |
-| Dockerfile | 0.0% |
+| Makefile | 0.0% |
 | CSS | 0.0% |
+| Dockerfile | 0.0% |
 
 _Calculated from GitHub language statistics for public repositories._
 
@@ -128,12 +128,19 @@ _Calculated from GitHub language statistics for public repositories._
 
 <!-- PROJECTS:START -->
 
+### [portfolio-website](https://github.com/WISDOM-OSBORN/portfolio-website)
+
+this is the repo for my portfolio
+
+**Languages:** TypeScript, HTML, CSS  
+**Updated:** 21 Sep 2026
+
 ### [datacern](https://github.com/WISDOM-OSBORN/datacern)
 
 A Python tool that takes a CSV or PDF upload plus a plain-English question, then generates a professional analytical report with auto-generated charts
 
 **Languages:** Python, Makefile, Dockerfile  
-**Updated:** 18 Sep 2026
+**Updated:** 21 Sep 2026
 
 ### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
 
@@ -163,13 +170,6 @@ Project documentation coming soon.
 **Languages:** Jupyter Notebook, Python  
 **Updated:** 10 Jul 2026
 
-### [DATA-ANALYTICS-COURSE-ONLINE-](https://github.com/WISDOM-OSBORN/DATA-ANALYTICS-COURSE-ONLINE-)
-
-🔍 Data Analytics with Python — Hands-on Course Materials Jupyter notebooks, projects, and datasets based on the freeCodeCamp Data Analysis with Python certification. Learn NumPy, Pandas, data cleaning, and visualization through real-world examples
-
-**Languages:** Jupyter Notebook  
-**Updated:** 10 Jul 2026
-
 
 <!-- PROJECTS:END -->
 
@@ -197,7 +197,7 @@ _This profile automatically analyses only my **public, original repositories**. 
 
 <!-- LAST-UPDATED:START -->
 
-_Last automated update: 20 September 2026 at 10:50 UTC_
+_Last automated update: 21 September 2026 at 12:14 UTC_
 
 <!-- LAST-UPDATED:END -->
 
