@@ -110,9 +110,9 @@
 
 | Language | Usage |
 |---|---:|
-| Jupyter Notebook | 98.0% |
+| Jupyter Notebook | 97.9% |
 | Python | 1.2% |
-| TypeScript | 0.7% |
+| TypeScript | 0.8% |
 | HTML | 0.0% |
 | Makefile | 0.0% |
 | CSS | 0.0% |
@@ -128,6 +128,13 @@ _Calculated from GitHub language statistics for public repositories._
 
 <!-- PROJECTS:START -->
 
+### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
+
+this is the repo for wifra labs 
+
+**Languages:** TypeScript, HTML, CSS  
+**Updated:** 25 Sep 2026
+
 ### [portfolio-website](https://github.com/WISDOM-OSBORN/portfolio-website)
 
 this is the repo for my portfolio
@@ -141,13 +148,6 @@ A Python tool that takes a CSV or PDF upload plus a plain-English question, then
 
 **Languages:** Python, Makefile, Dockerfile  
 **Updated:** 21 Sep 2026
-
-### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
-
-this is the repo for wifra labs 
-
-**Languages:** TypeScript, CSS, HTML  
-**Updated:** 27 Jul 2026
 
 ### [codes](https://github.com/WISDOM-OSBORN/codes)
 
@@ -197,7 +197,7 @@ _This profile automatically analyses only my **public, original repositories**. 
 
 <!-- LAST-UPDATED:START -->
 
-_Last automated update: 24 September 2026 at 11:17 UTC_
+_Last automated update: 25 September 2026 at 11:22 UTC_
 
 <!-- LAST-UPDATED:END -->
 
