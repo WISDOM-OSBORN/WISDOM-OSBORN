@@ -110,10 +110,10 @@
 
 | Language | Usage |
 |---|---:|
-| Jupyter Notebook | 97.9% |
-| Python | 1.2% |
-| TypeScript | 0.8% |
-| HTML | 0.0% |
+| Jupyter Notebook | 93.6% |
+| TypeScript | 5.1% |
+| Python | 1.1% |
+| HTML | 0.1% |
 | Makefile | 0.0% |
 | CSS | 0.0% |
 | Dockerfile | 0.0% |
@@ -127,6 +127,13 @@ _Calculated from GitHub language statistics for public repositories._
 ## 🆕 Recently Updated Public Projects
 
 <!-- PROJECTS:START -->
+
+### [al-trading-gadgets-](https://github.com/WISDOM-OSBORN/al-trading-gadgets-)
+
+electrical
+
+**Languages:** TypeScript, HTML, CSS  
+**Updated:** 10 Oct 2026
 
 ### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
 
@@ -163,13 +170,6 @@ My journey to becoming a Machine Learning and AI Engineer. This repository docum
 **Languages:** Jupyter Notebook  
 **Updated:** 25 Jul 2026
 
-### [WISDOM-OSBORNs](https://github.com/WISDOM-OSBORN/WISDOM-OSBORNs)
-
-Project documentation coming soon.
-
-**Languages:** Jupyter Notebook, Python  
-**Updated:** 10 Jul 2026
-
 
 <!-- PROJECTS:END -->
 
@@ -197,7 +197,7 @@ _This profile automatically analyses only my **public, original repositories**. 
 
 <!-- LAST-UPDATED:START -->
 
-_Last automated update: 09 October 2026 at 12:45 UTC_
+_Last automated update: 10 October 2026 at 12:03 UTC_
 
 <!-- LAST-UPDATED:END -->
 
