@@ -110,8 +110,8 @@
 
 | Language | Usage |
 |---|---:|
-| Jupyter Notebook | 93.6% |
-| TypeScript | 5.1% |
+| Jupyter Notebook | 93.4% |
+| TypeScript | 5.4% |
 | Python | 1.1% |
 | HTML | 0.1% |
 | Makefile | 0.0% |
@@ -133,7 +133,7 @@ _Calculated from GitHub language statistics for public repositories._
 electrical
 
 **Languages:** TypeScript, HTML, CSS  
-**Updated:** 10 Oct 2026
+**Updated:** 14 Oct 2026
 
 ### [Wifra-Labs](https://github.com/WISDOM-OSBORN/Wifra-Labs)
 
@@ -197,7 +197,7 @@ _This profile automatically analyses only my **public, original repositories**. 
 
 <!-- LAST-UPDATED:START -->
 
-_Last automated update: 14 October 2026 at 11:23 UTC_
+_Last automated update: 15 October 2026 at 11:00 UTC_
 
 <!-- LAST-UPDATED:END -->
 
